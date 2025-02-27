@@ -1,0 +1,2 @@
+# devnotes
+ All learned notes
